@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_script">
+    <sys_ui_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <global>false</global>
+        <ignore_in_now_experience>false</ignore_in_now_experience>
+        <name>x_1642372_wish_lis.sample ui script</name>
+        <script><![CDATA[// Replace "yourFunctionName" with an appropriate function name
+
+(function() {
+	return {
+		// Define your Workspace functions here
+		yourFunctionName: function() {
+				console.log('hello worlldddddddd')
+			// Workspace code goes here 
+
+		}
+	};
+})();
+
+// Define your core UI functions here
+function yourFunctionName() {
+	console.log('tada')
+	// Core UI code goes here
+
+}]]></script>
+        <script_name>sample ui script</script_name>
+        <sys_class_name>sys_ui_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-12 10:41:01</sys_created_on>
+        <sys_id>0b34cba08318e2101e1f9370ceaad364</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1642372_wish_lis.sample ui script</sys_name>
+        <sys_package display_value="Wish List" source="x_1642372_wish_lis">be3a2458835862101e1f9370ceaad34f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">be3a2458835862101e1f9370ceaad34f</sys_scope>
+        <sys_update_name>sys_ui_script_0b34cba08318e2101e1f9370ceaad364</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-12 10:41:01</sys_updated_on>
+        <ui_type>0</ui_type>
+        <use_scoped_format>false</use_scoped_format>
+    </sys_ui_script>
+</record_update>
